@@ -8,7 +8,7 @@ I'm a passionate Software engineer from India 🇮🇳
 
 - 💼 Software Engineer 1 at [Trinkerr](https://www.trinkerr.com/)
 
-- ❤️ I love writing TypeScript, JavaScript, but also learning golang in free time.
+- ❤️ I love writing TypeScript, JavaScript, Golang .
 
 - 💬 Ask me about anything [here](https://github.com/ishdutt/ishdutt/issues)
 
