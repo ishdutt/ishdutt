@@ -6,7 +6,7 @@ I'm a passionate Software engineer from India 🇮🇳
 
 **About me**
 
-- 💼 Software Engineer 1 at [Trinkerr](https://www.trinkerr.com/)
+- 💼 Software Engineer 2 at [Trinkerr](https://www.trinkerr.com/)
 
 - ❤️ I love writing TypeScript, JavaScript, Golang .
 
